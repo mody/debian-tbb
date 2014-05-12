@@ -1,0 +1,248 @@
+tbb (4.2.20140416+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.2 Update 4 (tbb42_20140416oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 12 May 2014 09:45:21 +0200
+
+tbb (4.2.20140122+nmu2) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Fixed pkg-config file version.
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 17 Feb 2014 10:23:22 +0100
+
+tbb (4.2.20140122+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.2 Update 3 (tbb42_20140122oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 17 Feb 2014 08:28:46 +0100
+
+tbb (4.2.20131118+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.2 (tbb42_20131118oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Tue, 03 Dec 2013 15:34:17 +0100
+
+tbb (4.2.20131003+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.2 (tbb42_20131003oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Thu, 31 Oct 2013 10:21:05 +0100
+
+tbb (4.2.20130725+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.2 (tbb42_20130725oss_src_3.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Thu, 05 Sep 2013 12:30:29 +0200
+
+tbb (4.1.20130613+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.1 Update 4 (tbb41_20130613oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 24 Jun 2013 16:02:11 +0200
+
+tbb (4.1.20130314+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.1 Update 3 (tbb41_20130314oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Fri, 12 Apr 2013 10:10:23 +0200
+
+tbb (4.1.20130116+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.1 Update 2 (tbb41_20130116oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Wed, 13 Mar 2013 12:48:06 +0100
+
+tbb (4.1.20121003+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.1 Update 1 (tbb41_20121003oss_src.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Wed, 12 Dec 2012 09:10:46 +0100
+
+tbb (4.1.20120718+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.1 (tbb41_20120718oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 24 Sep 2012 08:53:48 +0200
+
+tbb (4.0.20120613+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.0 update 5 (tbb40_20120613oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 30 Jul 2012 15:22:44 +0200
+
+tbb (4.0.20120408+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.0 update 3 (tbb40_20120408oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Tue, 22 May 2012 11:29:50 +0200
+
+tbb (4.0.20120201+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.0 update 3 (tbb40_20120201oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Wed, 07 Mar 2012 13:01:09 +0100
+
+tbb (4.0.20111130+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release (tbb40_20111130oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Thu, 26 Jan 2012 08:56:45 +0100
+
+tbb (4.0.20111003+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release (tbb40_20111003oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Thu, 27 Oct 2011 13:47:19 +0200
+
+tbb (4.0.20110809+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release (tbb40_20110809oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Fri, 14 Oct 2011 09:31:07 +0200
+
+tbb (3.0.20110315+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release (tbb30_20110315oss_src)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 28 Mar 2011 08:45:57 +0200
+
+tbb (3.0.20101215+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release (tbb30_20101215oss)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Fri, 31 Dec 2010 09:49:38 +0100
+
+tbb (3.0+r035-1) unstable; urgency=low
+
+  * New upstream release
+  * Update to Standards-Version 3.9.0 (no changes)
+  * Switch to dpkg-source 3.0 (quilt) format 
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Mon, 28 Jun 2010 19:29:45 -0400
+
+tbb (3.0+r018-1) unstable; urgency=low
+
+  * New upstream release (Closes: #581614)
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Sat, 15 May 2010 07:58:17 -0400
+
+tbb (2.2+r013-1) unstable; urgency=low
+
+  * New upstream release
+  * debian/copyright: update years
+  * Update to Standards-Version 3.8.4 (no changes)
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Sat, 20 Feb 2010 12:22:19 -0500
+
+tbb (2.2+r012-1) unstable; urgency=low
+
+  * New upstream release
+  * Update pkg-config metadata file
+  * Add ${misc:Depends} as recommended by lintian
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Wed, 27 Jan 2010 09:50:16 -0500
+
+tbb (2.2+r009-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Sun, 18 Oct 2009 14:50:25 -0400
+
+tbb (2.2+r004-1) unstable; urgency=low
+
+  * New upstream release (Closes: #545702)
+  * Update to Standards-Version 3.8.3 (no changes)
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Wed, 09 Sep 2009 17:22:22 -0400
+
+tbb (2.1r017-1) unstable; urgency=low
+
+  * New upstream release
+  * Change libtbb2-dbg to section debug for new archive layout
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Sun, 10 May 2009 21:15:34 -0400
+
+tbb (2.1r015-1) unstable; urgency=low
+
+  * New upstream release
+  * 02_replace_arch_command.dpatch: merged upstream
+  * Remove build dependency on dpatch and modify debian-rules accordingly
+  * Add .pc file to help when building against the library
+  * Update to Standards-Version 3.8.1 (no changes)
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Tue, 17 Mar 2009 15:52:47 -0400
+
+tbb (2.1~20080605-1) unstable; urgency=low
+
+  * New upstream release
+  * Drop patches
+    - 01_add_soname: suitable fascimile implemented upstream
+    - 03_ias_patch: upstream now using as instead of ias
+  * Update to Standards-Version 3.8.0 (no changes)
+  * Add new upstream Doxygen documentation (in libtbb-doc package)
+  * Register new documentation with doc-base
+  * debian/copyright: Update years of copyright
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Tue, 08 Jul 2008 18:51:22 -0400
+
+tbb (2.0r020-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian/patches/04_g++-4.3.dpatch: Removed, integrated upstream
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Tue, 29 Apr 2008 15:31:09 -0400
+
+tbb (2.0r017-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Sat, 08 Mar 2008 22:15:13 -0500
+
+tbb (2.0r014-4) unstable; urgency=low
+
+  * Make tbb-examples recommend libtbb-dev.
+  * Make libtbb-dev suggest tbb-examples.
+  * Patch to allow building with g++-4.3 (Closes: #462415)
+  * Only conditionally create symlink (Closes: #465617)
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Thu, 14 Feb 2008 18:36:15 -0500
+
+tbb (2.0r014-3) unstable; urgency=low
+
+  * Fix short descriptions of tbb-examples (Closes: #457442)
+  * Fix short descriptions of libtbb2-dbg (Closes: #457443)
+  * Add patch to allow build to succeed on Itanium
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Thu,  3 Jan 2008 15:21:50 -0500
+
+tbb (2.0r014-2) unstable; urgency=low
+
+  * debian/copyright: Fix license statement.
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Wed, 19 Dec 2007 21:17:16 -0500
+
+tbb (2.0r014-1) unstable; urgency=low
+
+  * Initial release (Closes: #434583)
+
+ -- Roberto C. Sanchez <roberto@connexer.com>  Fri, 14 Dec 2007 23:10:58 -0500
+
