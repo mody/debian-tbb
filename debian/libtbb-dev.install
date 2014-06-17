@@ -1,3 +1,0 @@
-include/tbb			usr/include
-build/linux_*_release/lib*.so	usr/lib
-debian/tbb.pc			usr/lib/pkgconfig

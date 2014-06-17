@@ -1,4 +1,0 @@
-# The package does not use autotools and depends on obsolete commands
-tbb source: debian-rules-ignores-make-clean-error
-# The download site is broken and cannot be scanned by uscan
-tbb source: debian-watch-file-is-missing
