@@ -26,7 +26,7 @@ include $(tbb_root)/build/common.inc
 
 default: tbb tbbmalloc $(if $(use_proxy),tbbproxy)
 
-all: tbb tbbmalloc tbbproxy test examples
+all: tbb tbbmalloc tbbproxy examples
 
 tbb: mkdir
 	$(MAKE) -C "$(work_dir)_debug"  -r -f $(tbb_root)/build/Makefile.tbb cfg=debug
