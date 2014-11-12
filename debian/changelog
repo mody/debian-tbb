@@ -1,4 +1,11 @@
-tbb (4.3.20140724+nmu1) UNRELEASED; urgency=low
+tbb (4.3.20141023+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream release 4.3 Update 1 (tbb43_20141023oss.tgz)
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Wed, 12 Nov 2014 09:40:37 +0100
+
+tbb (4.3.20140724+nmu1) unstable; urgency=low
 
   * Non-maintainer upload.
   * New upstream release 4.3 (tbb43_20140724oss_src.tgz)
