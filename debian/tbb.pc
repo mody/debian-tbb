@@ -6,6 +6,6 @@ includedir=${prefix}/include
 Name: Threading Building Blocks
 Description: Intel's parallelism library for C++
 URL: http://www.threadingbuildingblocks.org/
-Version: 4.3+20150209
+Version: 4.3+20150424
 Libs: -L${libdir} -ltbb
 Cflags: -I${includedir}
