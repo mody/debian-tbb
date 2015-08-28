@@ -1,9 +1,9 @@
-tbb (4.3.20150611-1+nmu1) UNRELEASED; urgency=low
+tbb (4.4.20150728-1+nmu1) unstable; urgency=low
 
-  * New upstream release
-  * New upstream release 4.3 Update 6 (tbb43_20150611oss_src.tgz)
+  * Non-maintainer upload.
+  * New upstream release 4.4 (tbb44_20150728oss_src.tgz)
 
- -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 15 Jun 2015 09:58:58 +0200
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Fri, 28 Aug 2015 14:02:38 +0200
 
 tbb (4.3.20150424-1+nmu1) unstable; urgency=low
 
