@@ -1,3 +1,11 @@
+tbb (4.4.20160316-1+nmu1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream release 4.4 Update 3 (tbb44_20160316oss_src.tgz)
+  * Proper release.
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Mon, 18 Apr 2016 14:51:17 +0200
+
 tbb (4.4.20160128-1+nmu1) unstable; urgency=medium
 
   * Non-maintainer upload.
