@@ -1,0 +1,25 @@
+Index: debian-tbb/include/tbb/tbb_config.h
+===================================================================
+--- debian-tbb.orig/include/tbb/tbb_config.h
++++ debian-tbb/include/tbb/tbb_config.h
+@@ -168,9 +168,9 @@
+ /** on OS X* the only way to get C++11 is to use clang. For library features (e.g. exception_ptr) libc++ is also
+  *  required. So there is no need to check GCC version for clang**/
+     #define __TBB_CPP11_VARIADIC_TEMPLATES_PRESENT          (__has_feature(__cxx_variadic_templates__))
+-    #define __TBB_CPP11_RVALUE_REF_PRESENT                  (__has_feature(__cxx_rvalue_references__) && (__TBB_GCC_VERSION >= 40300 || _LIBCPP_VERSION))
++    #define __TBB_CPP11_RVALUE_REF_PRESENT                  (__has_feature(__cxx_rvalue_references__))
+ /** TODO: extend exception_ptr related conditions to cover libstdc++ **/
+-    #define __TBB_EXCEPTION_PTR_PRESENT                     (__cplusplus >= 201103L && _LIBCPP_VERSION)
++    #define __TBB_EXCEPTION_PTR_PRESENT                     (__cplusplus >= 201103L)
+     #define __TBB_STATIC_ASSERT_PRESENT                     __has_feature(__cxx_static_assert__)
+     /**Clang (preprocessor) has problems with dealing with expression having __has_include in #ifs
+      * used inside C++ code. (At least version that comes with OS X 10.8 : Apple LLVM version 4.2 (clang-425.0.28) (based on LLVM 3.2svn)) **/
+@@ -184,7 +184,7 @@
+     #define __TBB_DEFAULTED_AND_DELETED_FUNC_PRESENT        (__has_feature(__cxx_defaulted_functions__) && __has_feature(__cxx_deleted_functions__))
+     /**For some unknown reason  __has_feature(__cxx_noexcept) does not yield true for all cases. Compiler bug ? **/
+     #define __TBB_NOEXCEPT_PRESENT                          (__cplusplus >= 201103L)
+-    #define __TBB_CPP11_STD_BEGIN_END_PRESENT               (__has_feature(__cxx_range_for__) && _LIBCPP_VERSION)
++    #define __TBB_CPP11_STD_BEGIN_END_PRESENT               (__has_feature(__cxx_range_for__))
+     #define __TBB_CPP11_AUTO_PRESENT                        __has_feature(__cxx_auto_type__)
+     #define __TBB_CPP11_DECLTYPE_PRESENT                    __has_feature(__cxx_decltype__)
+     #define __TBB_CPP11_LAMBDAS_PRESENT                     __has_feature(cxx_lambdas)
