@@ -1,3 +1,19 @@
+tbb (4.4.20160526-1+nmu1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream release 4.4 Update 5 (tbb44_20160526oss_src.tgz)
+  * Fixed clang 3.6+ feature detection
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Tue, 31 May 2016 11:11:05 +0200
+
+tbb (4.4.20160413-1+nmu1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream release 4.4 Update 4 (tbb44_20160413oss_src.tgz)
+  * Fixed clang 3.6+ feature detection
+
+ -- Patrik Modesto <patrik.modesto@firma.seznam.cz>  Fri, 06 May 2016 10:55:22 +0200
+
 tbb (4.4.20160316-1+nmu2) unstable; urgency=medium
 
   * Non-maintainer upload.
